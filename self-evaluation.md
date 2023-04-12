@@ -1,0 +1,1 @@
+I feel mostly confident with arrays. It might be useful to see some real world examples of when these different arrays and methods might be used.
